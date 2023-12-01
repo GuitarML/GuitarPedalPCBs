@@ -5,7 +5,7 @@ Currently through-hole designs only, SMT (surface mount) may be added later. Sol
 
 ## Pedals
 
-- Classic Boost (Compare to LPB-1 Electro-Harmonix) - Through hole design - Analog
+- [Classic Boost](https://github.com/GuitarML/GuitarPedalPCBs/tree/main/ClassicBoost_1590a) (Compare to LPB-1 Electro-Harmonix) - Through hole design - Analog
 
 ## How it works
 1. Download or clone this repo to get the KiCad design files.
