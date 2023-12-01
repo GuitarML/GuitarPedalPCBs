@@ -10,47 +10,42 @@ Component values are printed on the PCB itself for easy assembly.
 
 ## Resources
 
-Tayda Drill Template:
-OSHPark Shared Project (simply go here to order this PCB):
+Tayda Drill Template: [1590a Boost Template](https://drill.taydakits.com/box-designs/new?public_key=cUFvSW1sSW1jdHM0TEs5RUJyMTR4UT09Cg==)<br>
+OSHPark Shared Project (simply go here to order this PCB): [OshPark Shared Classic Boost v2](https://oshpark.com/shared_projects/wRVhDmaU)<br>
 
-## Parts List
+## Parts List<br>
 
-RESISTORS (1/4 watt)
-| QTY  |    VALUE   |
----------------------
-|  1   |   390 ohm  |
-|  1   |   4K7      |
-|  1   |   10K      |
-|  1   |   43K      |
-|  1   |   430K     |
+#### RESISTORS (1/4 watt)<br>
+| QTY  |    VALUE   |<br>
+|  1   |   390 ohm  |<br>
+|  1   |   4K7      |<br>
+|  1   |   10K      |<br>
+|  1   |   43K      |<br>
+|  1   |   430K     |<br>
+<br>
+#### CAPACITORS<br>
+| QTY  |    VALUE   |<br>
+|  2   |    0.1 UF (100nF) |<br>
+<br>
+#### TRANSISTORS<br>
+| QTY  |   Part #   |<br>
+|  1   |   2N5088   |<br>
+<br>
+#### DIODES<br>
+| QTY  |   Part #   |<br>
+|  1   |   1N5817   |<br>
+|  1   |   5mm LED (color of choice)   | Note: Tayda drill template assumes the LED is in a 5mm bezel, change LED hole size as desired.<br>
+<br>
+#### POTENTIOMETERS<br>
+| QTY  |    VALUE   |<br>
+|  1   |   A100K   | Note: B100K for linear taper works fine. Use 16mm right angle PCB mount if using 1590a drill template.<br>
+<br>
+#### SWITCHES<br>
+1   |  3DPDT footswitch<br>
 
-CAPACITORS
-| QTY  |    VALUE   |
----------------------
-|  2   |    0.1 UF (100nF) |
-
-TRANSISTORS
-| QTY  |   Part #   |
----------------------
-|  1   |   2N5088   |
-
-DIODES
-| QTY  |   Part #   |
----------------------
-|  1   |   1N5817   |
-|  1   |   5mm LED (color of choice)   | Note: Tayda drill template assumes the LED is in a 5mm bezel, change LED hole size as desired.
-
-POTENTIOMETERS
-| QTY  |    VALUE   |
----------------------
-|  1   |   A100K   | Note: B100K for linear taper works fine. Use 16mm right angle PCB mount if using 1590a drill template.
-
-SWITCHES
-1   |  3DPDT footswitch
-
-JACKS
-2   |   1/4" Mono Audio Jack
-1   |   9 volt power jack (center negative)    Note: No space for battery in 1590a enclosure
+#### JACKS<br>
+2   |   1/4" Mono Audio Jack<br>
+1   |   9 volt power jack (center negative)    Note: No space for battery in 1590a enclosure<br>
 
 
 ## How it works
@@ -69,15 +64,15 @@ Note: The pedal wiring works the same as most PedalPCB pedals with a 3PDT footsw
 
 The wiring labels on the board indicate the following:
 
-InG - Intended for input jack ground
-In  - Input Jack Signal
-SW  - Switch connection to footswitch
-SwG - Ground connection to footswitch 
-O   - Output Jack Signal
-OG  - Intended for output jack ground
-Gnd - Intended for power jack ground
-9v  - Positive 9v power
-
+InG - Intended for input jack ground <br>
+In  - Input Jack Signal<br>
+SW  - Switch connection to footswitch<br>
+SwG - Ground connection to footswitch <br>
+O   - Output Jack Signal<br>
+OG  - Intended for output jack ground<br>
+Gnd - Intended for power jack ground<br>
+9v  - Positive 9v power<br>
+<br>
 LED: IMPORTANT!!! The square hole for the LED on this board indicates NEGATIVE (shorter lead) and the circle hole is POSITIVE (longer lead).
 
 
