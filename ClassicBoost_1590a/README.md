@@ -7,6 +7,10 @@ This boost has been built and tested using a 1590a enclosure, but a 1590b would 
 
 Component values are printed on the PCB itself for easy assembly.
 
+![app](https://github.com/GuitarML/GuitarPedalPCBs/blob/main/ClassicBoost_1590a/pics/pcb_front_back.jpg)
+![app](https://github.com/GuitarML/GuitarPedalPCBs/blob/main/ClassicBoost_1590a/pics/boost_pic.jpg)
+
+
 
 ## Resources
 
